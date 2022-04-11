@@ -2,6 +2,11 @@
 
 **소개 :** 프랜차이즈(가맹본부/가맹점), 소상공인 및 자영업자의 매장관리 및 교육을 위한 플랫폼 개발을 통해 프랜차이즈 가맹본부의 가맹점 관리 편의성 제공
 
+## ERD
+
+URL : https://aquerytool.com/aquerymain/index/?rurl=444730d4-c3ac-44c6-8bd6-6dc65c4ab8b0&
+Password : s47hi7
+ 
 ## 사용 기술
 
 ### node
