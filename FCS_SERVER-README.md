@@ -12,6 +12,7 @@ Password : s47hi7
 ### node
 - [Node.js](https://nodejs.org/ko/) **12.16.2 LTS**
 - [axios](https://www.npmjs.com/package/axios) **0.19.2**
+- [typedi](https://www.npmjs.com/package/typedi) **0.8.0**
 - [bcrypt](https://www.npmjs.com/package/bcrypt) **4.0.1**
 - [moment](https://www.npmjs.com/package/moment) **2.27.0**
 - [request-ip](https://www.npmjs.com/package/request-ip) **2.1.3**
@@ -25,7 +26,6 @@ Password : s47hi7
 - [passport](https://www.npmjs.com/package/passport) **0.4.1**
 - [passport-jwt](https://www.npmjs.com/package/passport-jwt) **4.0.0**
 - [passport-local](https://www.npmjs.com/package/passport-local) **1.0.0**
-- [typedi](https://www.npmjs.com/package/typedi) **0.8.0**
 - [winston](https://www.npmjs.com/package/winston) **3.2.1**
 - [winston-daily-rotate-file](https://www.npmjs.com/package/winston-daily-rotate-file) **4.4.2**
 - [node-schedule](https://www.npmjs.com/package/node-schedule) **1.3.2**
