@@ -4,7 +4,7 @@
 
 ### 공유 가계부(토이 프로젝트)
   - RBC_RED = 백엔드서버, 디비 
-  - [링크] = https://github.com/naelonambul/RBV-SEV
+  - [링크](https://github.com/naelonambul/RBV-SEV)
 
 ### K사 외식 품질관리 플랫폼 개발
 
